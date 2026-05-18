@@ -1,7 +1,6 @@
 # Resource-and-population-dynamics-in-an-agent-environment-interaction-model
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20211132.svg)](https://doi.org/10.5281/zenodo.20211132)
 
-This repository contains the code and images from the paper “Resource and Population Dynamics in an Agent-Environment Interaction Model,” by Briozzo et al., PRE, 2025.
+This repository contains the code and images from the paper “Resource and Population Dynamics in an Agent-Environment Interaction Model,” by Briozzo et al., PRE, 2025 (https://doi.org/10.1103/pt8g-kgkr).
 
 Contents:
 
