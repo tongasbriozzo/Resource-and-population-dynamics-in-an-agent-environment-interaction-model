@@ -5,8 +5,8 @@ This repository contains the code and images from the paper “Resource and Popu
 ## Contents:
 1. README.md: This document.
 2. LICENSE: Manuscript and figures © Authors. Submitted to Physical Review E. Redistribution subject to APS publication policies.
-3. Figures: The repository contains 5 folders for each of the 5 figures in the paper, with the figure number indicated in the folder name. Some of these folders contain subfolders for the different panels of the figure, with the letter or number of the corresponding panel or panels indicated in the subfolder name. Each folder or subfolder contains the corresponding figures or panels from the paper, along with a CSV text file containing the metadata in cases of numerical results.
-4. Videos: The repository contains two videos as supplementary material.
+3. Figures metadata: The repository contains 5 folders for each of the 5 figures in the paper, with the figure number indicated in the folder name. Some of these folders contain subfolders for the different panels of the figure, with the letter or number of the corresponding panel indicated in the subfolder name. Each folder or subfolder contains the corresponding figures or panels from the paper, along with a CSV text file containing the metadata in cases of numerical results.
+4. Supplementary material: The repository contains two videos as supplementary material.
 
 ## LICENSE:
 **Manuscript and figures © Authors. Submitted to Physical Review E. Redistribution subject to APS publication policies.**
